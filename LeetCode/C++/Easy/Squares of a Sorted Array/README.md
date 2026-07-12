@@ -1,6 +1,6 @@
 # 📝 Squares of a Sorted Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/squares-of-a-sorted-array/)
+🔗 [Problem Link](https://leetcode.com/problems/squares-of-a-sorted-array)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Array, Two Pointers, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
