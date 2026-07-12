@@ -1,6 +1,6 @@
 # 📝 Array Partition (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/array-partition/)
+🔗 [Problem Link](https://leetcode.com/problems/array-partition)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Array, Greedy, Sorting, Counting Sort
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
