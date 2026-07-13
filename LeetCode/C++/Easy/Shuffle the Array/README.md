@@ -1,6 +1,6 @@
 # 📝 Shuffle the Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/shuffle-the-array/)
+🔗 [Problem Link](https://leetcode.com/problems/shuffle-the-array)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Array
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
