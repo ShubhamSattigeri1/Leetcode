@@ -1,6 +1,6 @@
 # 📝 Build Array from Permutation (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/build-array-from-permutation/)
+🔗 [Problem Link](https://leetcode.com/problems/build-array-from-permutation)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Array, Simulation
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
