@@ -1,6 +1,6 @@
 # 📝 Concatenation of Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/concatenation-of-array/)
+🔗 [Problem Link](https://leetcode.com/problems/concatenation-of-array)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Array, Simulation
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
